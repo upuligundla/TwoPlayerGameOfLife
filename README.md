@@ -97,8 +97,8 @@ If both players no longer have any live cells, the program prints out there is a
 ### Contributing 
 I encourage you to test and play the Game of Life, its real fun!!. Send your pull requests with improvements and suggestions to make the game even more fun.
 
-[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
+[//]: # These are reference links used in the body 
 
-	[Conway's Game of life]: <https://en.wikipedia.org/wiki/Conway%27_s_Game_of_Life>
+	[Conway's Game of life]:(https://en.wikipedia.org/wiki/Conway%27_s_Game_of_Life)
 
 
