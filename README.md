@@ -1,6 +1,6 @@
 # Game Of Life
 ### Introduction
-This is a implementation of 2 players [Conway's Game of life] with variations. The Game of Life is played on a grid of cells, where each cell is either dead or alive. For each “turn” or “generation” of the game, the game iterates over all of the cells and determines whether a cell is alive or dead based on a set of rules. 
+This is a implementation of 2 players [Conway's Game of life](https://en.wikipedia.org/wiki/Conway%27_s_Game_of_Life) with variations. The Game of Life is played on a grid of cells, where each cell is either dead or alive. For each “turn” or “generation” of the game, the game iterates over all of the cells and determines whether a cell is alive or dead based on a set of rules. 
 The rules for the standard single player version are as follows:
   - Any live cell with fewer than two live neighbors dies (under population) 
   - Any live cell with two or three live neighbors lives.
@@ -96,9 +96,4 @@ If both players no longer have any live cells, the program prints out there is a
 
 ### Contributing 
 I encourage you to test and play the Game of Life, its real fun!!. Send your pull requests with improvements and suggestions to make the game even more fun.
-
-[//]: # These are reference links used in the body 
-
-	[Conway's Game of life]:(https://en.wikipedia.org/wiki/Conway%27_s_Game_of_Life)
-
 
