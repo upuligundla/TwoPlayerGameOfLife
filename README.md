@@ -51,9 +51,12 @@ After the initial generation file is read, the program prints the state of the g
 
 For the example initial generation file above, the program prints out the following state:
 
->Generation #0 \
-Player 1 Cells: 5 \
-Player 2 Cells: 6 
+>Generation #0 
+
+>Player 1 Cells: 5 
+
+>Player 2 Cells: 6 
+
 ```sh
     .......... 
     ..1....... 
@@ -91,7 +94,8 @@ as the initial state:
 
 The program checks to see if one of the players no longer has any live cells. If so, the program prints out the winner and how many cells that player has remaining:
 
->Player 1 Wins! with 11 live cells\
+>Player 1 Wins! with 11 live cells
+
 >Game Over!!
  
 If both players no longer have any live cells, the program prints out there is a tie and then terminates. Otherwise, the program continues generating new states, printing out the state and determine whether or not there is a winner until a winner is declared or the program is terminated.
