@@ -50,6 +50,7 @@ After the initial generation file is read, the program prints the state of the g
 4. The grid of live and dead cells following same convention for the state of the cells used for the initial generation file.
 
 For the example initial generation file above, the program prints out the following state:
+
 >Generation #0 \
 Player 1 Cells: 5 \
 Player 2 Cells: 6 
@@ -69,8 +70,10 @@ Player 2 Cells: 6
 The program then generates the next state given the initial state and prints out the state in the same format
 as the initial state:
 
->Generation #1 \
->Player 1 Cells: 5 \
+>Generation #1 
+
+>Player 1 Cells: 5 
+
 >Player 2 Cells: 6 
 
 ```sh
